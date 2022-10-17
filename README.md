@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I am Philip and currently living in Oldenburg, Germany
 
