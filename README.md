@@ -1,10 +1,11 @@
 # Hi there 👋
 
-I am Philip and currently living in Oldenburg, Germany
+I am Philip and currently living in Oldenburg, Germany.
 
-- 🔭 I’m currently working on becoming a web developer ...
-- 🌱 I’m currently learning javascript ...
-- ⚡ Fun fact: i can do a headstand and sing Don’t Stop Believin’
+- 🔭 I’m currently working on becoming a web developer at "Neue Fische"
+- 👷 I'm working at <a href="https://www.team-neusta.de/">team neusta</a>
+- 🌱 I’m currently learning javascript
+- ⚡ Fun fact: i can do a headstand and sing Don’t Stop Believin
 
 
 Just a little extra before you leave - here is a cute cat picture :)
