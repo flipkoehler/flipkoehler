@@ -6,7 +6,7 @@ I am Philip and currently living in Oldenburg, Germany.
 - ⛰️ I love hiking and eating fries
 - ⚡ Fun fact: i can do a headstand and sing "Don’t Stop Believin"
 
-<hr>
+
 
 ## Gif of the day 🥳
 <img src="https://i.giphy.com/media/Ju7l5y9osyymQ/giphy.webp" alt="rick roll">
